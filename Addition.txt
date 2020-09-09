@@ -1,0 +1,8 @@
+
+
+
+Welcome Friend...!
+Addition of two numbers..
+a=4,b=4;
+c=a+b;
+cout<<c;
